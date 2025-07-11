@@ -1,4 +1,4 @@
-# Financial Calculator: 
+# Financial Calculator: Compound Growth
 
 This is an calculator application that will caluculate the future value of your savings over time.
 
